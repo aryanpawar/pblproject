@@ -1,0 +1,41 @@
+html { 
+  background: url(https://cdn.pixabay.com/photo/2016/11/29/08/42/desk-1868498_960_720.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+header{
+	text-align: center;
+	
+}
+img{
+	height: 100px;
+}
+main{
+	text-align: center;
+	font-size: 100%;
+}
+
+a:link {
+  color: red;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  color: hotpink;
+}
+p{
+	color: blue;
+}
+li{
+	color: black;
+	font-size: 150%
+}
+h2{
+	color: red;
+}
+li span{
+	background-color: white;
+}

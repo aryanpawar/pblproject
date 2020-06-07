@@ -1,0 +1,15 @@
+html { 
+  background: url(https://cdn.pixabay.com/photo/2015/12/01/15/43/black-1072366_960_720.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+  font-size: 125%;
+}
+h1{
+	text-align: center;
+}
+a{
+	color: white;
+}
